@@ -1,4 +1,4 @@
-# Ep 01 – How to Create a WordPress Plugin from Scratch
+# Part 01 – How to Create a WordPress Plugin from Scratch
 
 📺 **Watch the video:** https://youtu.be/cOGUgyS-BOQ
 
@@ -30,6 +30,6 @@
 | | |
 |---|---|
 | ⬅️ Previous | *(this is the first episode)* |
-| ➡️ Next | [Ep 02 – How to Add a Settings Page](../2/README.md) |
+| ➡️ Next | [Part 02 – How to Add a Settings Page](../2/README.md) |
 
 📂 **Full series:** https://github.com/makitweb/show-notice-wordpress-plugin
