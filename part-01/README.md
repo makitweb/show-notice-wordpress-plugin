@@ -30,6 +30,6 @@
 | | |
 |---|---|
 | ⬅️ Previous | *(this is the first episode)* |
-| ➡️ Next | [Part 02 – How to Add a Settings Page](../2/README.md) |
+| ➡️ Next | [Part 02 – How to Add a Settings Page](../part-02/README.md) |
 
 📂 **Full series:** https://github.com/makitweb/show-notice-wordpress-plugin
