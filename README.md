@@ -16,7 +16,7 @@ We build a **Simple Notice** WordPress plugin from scratch across multiple video
 | Ep 04 | WordPress Plugin Development: Create Custom Submenu Pages | [Browse](./part-04) | [Watch](https://youtu.be/tMM0QupdHKg) |
 | Ep 05 | How to Create a Custom Database Table in WordPress Plugin | [Browse](./part-05) | [Watch](https://youtu.be/F-lJLTyk3BQ) |
 | Ep 06 | How to Create a Custom Admin Table Using WP_List_Table | [Browse](./part-06) | [Watch](https://youtu.be/Keq7SHAM2-A) |
-| Ep 07 | How to Add a Custom Form in WordPress Admin | [Browse](./part-07) | *(coming soon)* |
+| Ep 07 | How to Add a Custom Form in WordPress Admin | [Browse](./part-07) | [Watch](https://youtu.be/-98osdP_nEQ) |
 | Ep 08 | How to Add a Delete Button to a WordPress Plugin | [Browse](./part-08) | *(coming soon)* |
 
 ---
